@@ -1,1 +1,0 @@
-# ajmoomaw.github.io-bethsgallery

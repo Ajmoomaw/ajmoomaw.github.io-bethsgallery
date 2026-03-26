@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Beth&#x27;s Gallery",
+    "description": "",
+    "home_page_url": "https://ajmoomaw.github.io-bethsgallery",
+    "feed_url": "https://ajmoomaw.github.io-bethsgallery/feed.json",
+    "user_comment": "",
+    "icon": "https://ajmoomaw.github.io-bethsgallery/media/website/MrPotate.jpg",
+    "author": {
+        "name": "Beth&#x27;s Loving Husband"
+    },
+    "items": [
+        {
+            "id": "https://ajmoomaw.github.io-bethsgallery/hello-yet-again.html",
+            "url": "https://ajmoomaw.github.io-bethsgallery/hello-yet-again.html",
+            "title": "Hello yet again ",
+            "summary": "My husband is an odd one, this is apparently a video game moment that he felt was worth capturing",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\" src=\"https://ajmoomaw.github.io-bethsgallery/media/posts/2/Screenshot-2025-10-18-195732.png\" alt=\"\" width=\"663\" height=\"1139\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://ajmoomaw.github.io-bethsgallery/media/posts/2/responsive/Screenshot-2025-10-18-195732-xs.png 640w ,https://ajmoomaw.github.io-bethsgallery/media/posts/2/responsive/Screenshot-2025-10-18-195732-sm.png 768w ,https://ajmoomaw.github.io-bethsgallery/media/posts/2/responsive/Screenshot-2025-10-18-195732-md.png 1024w ,https://ajmoomaw.github.io-bethsgallery/media/posts/2/responsive/Screenshot-2025-10-18-195732-lg.png 1366w ,https://ajmoomaw.github.io-bethsgallery/media/posts/2/responsive/Screenshot-2025-10-18-195732-xl.png 1600w ,https://ajmoomaw.github.io-bethsgallery/media/posts/2/responsive/Screenshot-2025-10-18-195732-2xl.png 1920w\">\n<figcaption>My husband is an odd one, this is apparently a video game moment that he felt was worth capturing</figcaption>\n</figure>",
+            "author": {
+                "name": "Beth&#x27;s Loving Husband"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-25T20:38:48-04:00",
+            "date_modified": "2026-03-25T20:38:48-04:00"
+        },
+        {
+            "id": "https://ajmoomaw.github.io-bethsgallery/hello-there.html",
+            "url": "https://ajmoomaw.github.io-bethsgallery/hello-there.html",
+            "title": "Hello There",
+            "summary": "These are some cool images of an Octopus that are very cool",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://ajmoomaw.github.io-bethsgallery/media/posts/1/gallery/Screenshot-2026-02-19-005930.png\" data-size=\"1562x1061\"><img loading=\"lazy\" src=\"https://ajmoomaw.github.io-bethsgallery/media/posts/1/gallery/Screenshot-2026-02-19-005930-thumbnail.png\" alt=\"\" width=\"720\" height=\"489\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://ajmoomaw.github.io-bethsgallery/media/posts/1/gallery/Screenshot-2026-02-19-005902.png\" data-size=\"1563x966\"><img loading=\"lazy\" src=\"https://ajmoomaw.github.io-bethsgallery/media/posts/1/gallery/Screenshot-2026-02-19-005902-thumbnail.png\" alt=\"\" width=\"720\" height=\"445\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://ajmoomaw.github.io-bethsgallery/media/posts/1/gallery/Screenshot-2026-02-19-005834.png\" data-size=\"1533x1061\"><img loading=\"lazy\" src=\"https://ajmoomaw.github.io-bethsgallery/media/posts/1/gallery/Screenshot-2026-02-19-005834-thumbnail.png\" alt=\"\" width=\"720\" height=\"498\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://ajmoomaw.github.io-bethsgallery/media/posts/1/gallery/Screenshot-2026-02-19-002304.png\" data-size=\"1127x991\"><img loading=\"lazy\" src=\"https://ajmoomaw.github.io-bethsgallery/media/posts/1/gallery/Screenshot-2026-02-19-002304-thumbnail.png\" alt=\"\" width=\"720\" height=\"633\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://ajmoomaw.github.io-bethsgallery/media/posts/1/gallery/Screenshot-2026-02-18-221917.png\" data-size=\"1205x659\"><img loading=\"lazy\" src=\"https://ajmoomaw.github.io-bethsgallery/media/posts/1/gallery/Screenshot-2026-02-18-221917-thumbnail.png\" alt=\"\" width=\"720\" height=\"394\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://ajmoomaw.github.io-bethsgallery/media/posts/1/gallery/Screenshot-2026-02-18-221858.png\" data-size=\"1256x861\"><img loading=\"lazy\" src=\"https://ajmoomaw.github.io-bethsgallery/media/posts/1/gallery/Screenshot-2026-02-18-221858-thumbnail.png\" alt=\"\" width=\"720\" height=\"494\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://ajmoomaw.github.io-bethsgallery/media/posts/1/gallery/Screenshot-2026-02-18-221845.png\" data-size=\"1096x829\"><img loading=\"lazy\" src=\"https://ajmoomaw.github.io-bethsgallery/media/posts/1/gallery/Screenshot-2026-02-18-221845-thumbnail.png\" alt=\"\" width=\"720\" height=\"545\"></a></figure>\n</div></div>\n<p>These are some cool images of an Octopus that are very cool</p>\n<p> </p>",
+            "author": {
+                "name": "Beth&#x27;s Loving Husband"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-25T20:37:09-04:00",
+            "date_modified": "2026-03-25T20:37:09-04:00"
+        }
+    ]
+}
